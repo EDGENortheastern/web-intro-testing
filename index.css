@@ -1,0 +1,18 @@
+/* styles the body tag */
+body {
+    background-color: coral;
+}
+
+/* styles paragraph text */
+p {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+/* defines a css class that can be used on various elements */
+.instruction-text {
+    margin-left: 40px;
+    color: yellow;
+}
+
